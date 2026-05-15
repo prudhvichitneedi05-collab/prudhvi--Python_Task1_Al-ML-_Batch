@@ -37,10 +37,10 @@ def main():
     members = set()
 
     # Adding books
-    add_book(catalog, 101, "Python Basics", "John", 2020)
-    add_book(catalog, 102, "Data Structures", "Smith", 2019)
-    add_book(catalog, 103, "AI Fundamentals", "David", 2021)
-    add_book(catalog, 104, "Machine Learning", "Andrew", 2022)
+    add_book(catalog, 101, "Python Basics", "prudhvi", 2020)
+    add_book(catalog, 102, "Data Structures", "Sai", 2019)
+    add_book(catalog, 103, "AI Fundamentals", "karthik", 2021)
+    add_book(catalog, 104, "Machine Learning", "Anand", 2022)
 
     # Registering members
     register_member(members, 1)
